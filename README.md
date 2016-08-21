@@ -12,6 +12,8 @@
 
 [Code coverage of main ggduo function as of v1.2.0: 99.4%](https://codecov.io/gh/ggobi/ggally/src/9b04b7b53d8ce61692fa9f21bc52241a6ec2af52/R/ggpairs.R)
 
+[16,821 downloads in July, 2016 from RStudio's CRAN mirror](http://cranlogs.r-pkg.org/downloads/total/2016-07-01:2016-07-31/GGally)
+
 # Other Significant Code Improvements
 
 * added more docs to wrap function: https://github.com/ggobi/ggally/pull/159
@@ -36,7 +38,9 @@ https://github.com/schloerke/ggduo-paper
 
 # Work Complete
 
-Major ggduo work is complete and currently on CRAN ([v1.2.0](https://github.com/ggobi/ggally/releases/tag/v1.2.0)).  
+Major ggduo work is complete and currently on CRAN ([v1.2.0 release notes](https://github.com/ggobi/ggally/releases/tag/v1.2.0)).  
+
+## Remaining Work
 
 This project is being continued after google summer of code to submit a paper to the Journal of Computational and Graphical Statistics.  There are a few small remaining items left to complete that will happen with the completion of the ggduo paper.
 
@@ -45,3 +49,4 @@ This project is being continued after google summer of code to submit a paper to
   * Should use the broom package
 * Make an example with the time series pigs data from cranvas::pigs
 * Make a single ggplot faceted plot if only using a continuous plot type
+* Merge latest commits into master branch
