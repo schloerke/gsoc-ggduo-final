@@ -1,4 +1,4 @@
-# gsoc ggduo final
+# Google Summer of Code Final Report
 
 # Main Code:
 * added gglegend: https://github.com/ggobi/ggally/pull/169
