@@ -1,4 +1,4 @@
-g# Google Summer of Code Final Report
+# Google Summer of Code Final Report
 
 # Code
 
