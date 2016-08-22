@@ -63,7 +63,7 @@ This project is being continued after google summer of code to submit a paper to
 
 * Make a single regression plot that receives a stat model object
   * The vertical columns should contain up to: points, residuals, influence, and cooks distance
-  * Should use the broom package
+  * Should use the `broom` package
 * Make an example with the time series `pigs` data from `cranvas::pigs`
 * Make a single `ggplot()` faceted plot if only using a continuous plot type
 * Merge latest commits into `master` branch
