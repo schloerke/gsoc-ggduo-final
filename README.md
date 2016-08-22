@@ -19,7 +19,7 @@
   * https://github.com/ggobi/ggally/pull/190
   * (Needs CRAN submission)
 
-[Total Contribution in GGally repo](https://github.com/ggobi/ggally/compare/40e248c4124f41d7ae8aa2f828687e84069a7692...79dc9ff278a5906c112a5b7e3230799a86e2f48e) (> 250 commits. < 10 commits from other authors.)
+[Total Contribution in GGally repo](https://github.com/ggobi/ggally/compare/40e248c4124f41d7ae8aa2f828687e84069a7692...79dc9ff278a5906c112a5b7e3230799a86e2f48e) (> 325 commits. < 10 commits from other authors.)
 
 [Package Code coverage (as determined by tests) as of v1.2.0: 98%](https://codecov.io/gh/ggobi/ggally/tree/9b04b7b53d8ce61692fa9f21bc52241a6ec2af52/R)
 
