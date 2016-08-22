@@ -48,7 +48,7 @@ https://github.com/schloerke/ggduo-user-2016/
 
 https://github.com/schloerke/ggduo-paper
 
-(Which is being continued after Google Summer of code ends)
+(Which is being continued after Google Summer of Code ends)
 
 
 # Coding
