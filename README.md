@@ -1,6 +1,9 @@
 # Google Summer of Code Final Report
 
-# Main Code:
+# Code
+
+## Main Code:
+
 * added gglegend: 
   * https://github.com/ggobi/ggally/pull/169
   * Merged into dev branch
@@ -24,7 +27,7 @@
 
 [16,821 downloads in July, 2016](http://cranlogs.r-pkg.org/downloads/total/2016-07-01:2016-07-31/GGally) from RStudio's CRAN mirror. Up from [13,041 downloads in March, 2016](http://cranlogs.r-pkg.org/downloads/total/2016-03-01:2016-03-31/GGally) before GSoC
 
-# Other Significant Code Improvements
+## Other Significant Code Improvements
 
 * added more docs to wrap function: https://github.com/ggobi/ggally/pull/159
 * main ggcoef function added to package: https://github.com/ggobi/ggally/pull/162
@@ -35,18 +38,22 @@
 * ggcor robust color: https://github.com/ggobi/ggally/pull/189
 * general bracket code robustness: https://github.com/ggobi/ggally/pull/191
 
-# Presentation to UseR2016! - June 30, 2016
+# Write up
+
+## Presentation to UseR2016! - June 30, 2016
 
 https://github.com/schloerke/ggduo-user-2016/
 
-# Start of Paper for JCGS
+## Start of Paper for JCGS
 
 https://github.com/schloerke/ggduo-paper
 
 (Which is being continued after Google Summer of code ends)
 
 
-# Work Complete
+# Coding
+
+## Work Complete
 
 Major ggduo work is complete and currently on CRAN ([v1.2.0 release notes](https://github.com/ggobi/ggally/releases/tag/v1.2.0)).
 
