@@ -44,11 +44,12 @@
 
 https://github.com/schloerke/ggduo-user-2016/
 
-## Start of Paper for JCGS
+<!-- ## Start of Paper for JCGS
 
 https://github.com/schloerke/ggduo-paper
 
 (Which is being continued after Google Summer of Code ends)
+-->
 
 
 # Coding
